@@ -1,3 +1,4 @@
+#test
 def drug_features_to_text(drug) -> str:
     result = 'Drug: ' + drug['name'] + ', Drug Id: ' + drug['drugbank_id']
     + ', Type: ' + drug['type'] + "."
